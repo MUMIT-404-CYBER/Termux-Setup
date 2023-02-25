@@ -8,16 +8,6 @@
 
 * `pkg install git`
 
-* `pip install requests`
-
-* `pip install mechanize`
-
-* `pip install futures`
-
-* `pip install rich`
-
-* `pip install bs4`
-
 * `rm -rf Termux-Setup `
 
 * `git clone https://github.com/MUMIT-404-CYBER/Termux-Setup.git `
