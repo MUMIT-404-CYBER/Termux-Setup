@@ -1,6 +1,6 @@
 ## COMMAND :
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2C10&background=31FF9400&width=435&lines=Random+FB+id+Cloning+Tool+Enjoy+Guys%F0%9F%A4%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2C10&background=31FF9400&width=435&lines=Termux+Basic+Setup+Tool+Enjoy+Guys%F0%9F%A4%9F)](https://git.io/typing-svg)
 
 * `pkg update && pkg upgrade`
 
@@ -18,14 +18,13 @@
 
 * `pip install bs4`
 
-* `rm -rf RANDOM-CRACK `
+* `rm -rf Termux-Setup `
 
-* `git clone https://github.com/Demon-Cyber-404/RANDOM-CRACK.git `
+* `git clone https://github.com/MUMIT-404-CYBER/Termux-Setup.git `
 
-* `cd RANDOM-CRACK `
+* `cd Termux-Setup `
 
-* `python run.py `
-
+* `python Setup.py `
 
 
 ___This Tools is Free.___</br>
